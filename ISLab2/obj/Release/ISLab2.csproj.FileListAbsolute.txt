@@ -1,0 +1,5 @@
+C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Release\ISLab2.csproj.AssemblyReference.cache
+C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Release\ISLab2.Form1.resources
+C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Release\ISLab2.Properties.Resources.resources
+C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Release\ISLab2.csproj.GenerateResource.cache
+C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Release\ISLab2.csproj.CoreCompileInputs.cache
