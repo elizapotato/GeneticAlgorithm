@@ -18,3 +18,13 @@ C:\Users\liza_\Downloads\ISLab2-main\ISLab2\obj\Debug\ISLab2.pdb
 C:\Users\liza_\Downloads\ISLab2-main\ISLab2\bin\Debug\ISLab2.exe.config
 C:\Users\liza_\Downloads\ISLab2-main\ISLab2\bin\Debug\ISLab2.exe
 C:\Users\liza_\Downloads\ISLab2-main\ISLab2\bin\Debug\ISLab2.pdb
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\bin\Debug\ISLab2.exe.config
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\bin\Debug\ISLab2.exe
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\bin\Debug\ISLab2.pdb
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.csproj.AssemblyReference.cache
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.Form1.resources
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.Properties.Resources.resources
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.csproj.GenerateResource.cache
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.csproj.CoreCompileInputs.cache
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.exe
+D:\GitHubStuff\GeneticAlgorithm\ISLab2\obj\Debug\ISLab2.pdb
