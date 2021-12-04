@@ -27,7 +27,7 @@ namespace ISLab2
 		public BitArray GenB;	// Битовая строка для кодирования гена b
 		public double Fitness;	// Значение функции приспособленности (целевой функции)
 	    
-		public Person(double min, double max, double a, double b) // Конструктор, принимающий декодированные параметры
+		public Person(double min, double max, double a, double b) // Конструктор, принимающий декодированные параметры (для формирования начальной популяции)
 		{
 			A = a;
 			int EncodedA = (int)Math.Round((a - min) * (Math.Pow(2, Interval.GenRank) - 1) / (max - min));
@@ -40,7 +40,7 @@ namespace ISLab2
 			FitnessFunc();
 		}
 
-		public Person(BitArray genA, BitArray genB) // Конструктор, принимающий закодированные параметры
+		public Person(BitArray genA, BitArray genB) // Конструктор, принимающий закодированные параметры (для смены родителей потомками)
 		{
 			A = Interval.DecodedGen(genA);
 			B = Interval.DecodedGen(genB);

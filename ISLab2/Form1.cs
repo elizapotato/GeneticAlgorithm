@@ -79,5 +79,7 @@ namespace ISLab2
 				chart1.Series[seriesNumber].Points.AddXY(x, y);
 			}
 		}
+
+	
 	}
 }
